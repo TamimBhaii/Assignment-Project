@@ -20,6 +20,7 @@ This project demonstrates advanced LangChain features including dynamic routing 
 
 ```text
 .
+project/
 ├── app.py             
 ├── chatbot.py       
 ├── prompts.py          
