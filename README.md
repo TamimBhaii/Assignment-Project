@@ -16,7 +16,7 @@ This project demonstrates advanced LangChain features including dynamic routing 
 
 ---
 
-## 🛠️ Project Structure
+## Project Structure
 
 ```text
 .
